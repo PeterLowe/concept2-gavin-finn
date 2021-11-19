@@ -1,15 +1,23 @@
-[pl]Remeber to put your initials in square brackets at rthe start of each section
+[pl]Remeber to put your initials in square brackets at the start of each section
 
 Title
-Gavin, Finn
+Gavin, Finn, James
 
-Elevator pitch 
+Elevator pitch
+[JM]The game focusses on the main aspects of previous Assasins Creed games and expands upon them, by taking the city wide/continent wide feel
+and amplifying it. Crossing the distance between stars is now a mere matter of hopping in an appropriate spaceship and travelling there.
+Ship v ship battles are a part of the game, but only so that the enemy ship can be boarded and hand to hand combat can occur, tying in the
+playstyle that Assasins Creed players are used to with the space-based setting. 
 [gob] Protagonist tries to takedown current galactic government. Exploration of new planets to find
 and eliminate current government leaders or cruel leaders. Liberating colonised planets and taking down
 the government. 
 ...
 World Background
-main differences in your game world
+[JM] The Order (of Assassins) has lasted for centuries and has prevailed through much strife over the many years of its existence.
+Although somewhat diminished, still the Order stands and slays from the shadows in exchange for coin and for the sake of safeguarding, now not only Earth, but the Galaxy.
+Instead of the robes, birds and blades linked with the franchise, this game has Intricately designed spacesuits complete with cowls and capes,
+the birds are now scout drones and the blades are no longer merely iron, but have all form of tech attatched to make them more efficeint for different killing tasks.
+Welcome back to the world of Assassins Creed, but not as you know it.
 ...
 Pillars
 [gob] Space Travel, futuristic vehicles and weapons, 
