@@ -1,7 +1,15 @@
 [pl]Remeber to put your initials in square brackets at the start of each section
 
+
+Title [JM]
+James, Gavin, Finn
+
 Title
+
 Gavin, Finn, James
+
+Gavin, James, Finn
+
 
 Elevator pitch
 [JM]The game focusses on the main aspects of previous Assasins Creed games and expands upon them, by taking the city wide/continent wide feel
