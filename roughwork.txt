@@ -6,13 +6,17 @@ Gavin, Finn
 Elevator pitch 
 [gob] Protagonist tries to takedown current galactic government. Exploration of new planets to find
 and eliminate current government leaders or cruel leaders. Liberating colonised planets and taking down
-the government. 
+the government. Use custom space ships that can be bought, sold and upgraded to travel to distant worlds
+to find and take down these criminal leaders. prepare the solar system for a greater leader and become the 
+galaxies greatest assassin.
 ...
 World Background
-main differences in your game world
+[gob] Unlike the previous games that are all set in the past, this game takes place far
+into the future during an outrage in the galaxy with the protection and responsibility towards 
+planets and 
 ...
 Pillars
-[gob] Space Travel, futuristic vehicles and weapons, 
+[gob] Space Travel, futuristic vehicles and weapons, new environments, creative mode to allow you to build and create your own planets for custom missions
 ...
 30 second gameplay description
 [gob] Protagonist scales the outside of a space ship to infiltrate. enters using vents or through other means.
