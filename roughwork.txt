@@ -1,19 +1,22 @@
 [pl]Remeber to put your initials in square brackets at rthe start of each section
 
 Title
-insert team member names here
+Gavin, Finn
 
 Elevator pitch 
-Describe your game in 30 seconds or less
+[gob] Protagonist tries to takedown current galactic government. Exploration of new planets to find
+and eliminate current government leaders or cruel leaders. Liberating colonised planets and taking down
+the government. 
 ...
 World Background
 main differences in your game world
 ...
 Pillars
-3-4 fundementals of this game
+[gob] Space Travel, futuristic vehicles and weapons, 
 ...
 30 second gameplay description
-describe what its like to play the essence of the game loop
+[gob] Protagonist scales the outside of a space ship to infiltrate. enters using vents or through other means.
+
 ...
 Features points
 key selling points of your game
