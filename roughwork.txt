@@ -4,7 +4,9 @@ Title
 Gavin, Finn
 
 Elevator pitch 
-Describe your game in 30 seconds or less
+[gob] Protagonist tries to takedown current galactic government. Exploration of new planets to find
+and eliminate current government leaders or cruel leaders. Liberating colonised planets and taking down
+the government. 
 ...
 World Background
 main differences in your game world
