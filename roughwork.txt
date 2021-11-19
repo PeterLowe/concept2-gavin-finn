@@ -1,22 +1,36 @@
 [pl]Remeber to put your initials in square brackets at the start of each section
 
+<<<<<<< HEAD
 Title [JM]
 James, Gavin, Finn
+=======
+Title
+Gavin, Finn
+>>>>>>> 567c63cbabc791b41ea3e7a0488fdc4a6954a6af
 
 Elevator pitch 
-Describe your game in 30 seconds or less
+[gob] Protagonist tries to takedown current galactic government. Exploration of new planets to find
+and eliminate current government leaders or cruel leaders. Liberating colonised planets and taking down
+the government. 
 ...
 World Background
 main differences in your game world
 ...
 Pillars
-3-4 fundementals of this game
+[gob] Space Travel, futuristic vehicles and weapons, 
 ...
 30 second gameplay description
-describe what its like to play the essence of the game loop
+[gob] Protagonist scales the outside of a space ship to infiltrate. enters using vents or through other means.
+
 ...
 Features points
-key selling points of your game
+[gob] style and gameplay that assassins creed players enjoy on completely new environments.
+[gob] new interesting and unique weapons and spaces to take the combat of the game to another level.
+[gob] space travel and flight adding a new vehicle type then the typical sailing in the previous games.
 ...
 Market analysis
-similar games , typical customer, expected sales
+[gob] similar games would include dead space, no mans sky, Far Cry Blood Dragon
+[gob] typical customers would be assassins creed players. This game could also attract those players who are missin 
+a dead space esque game that allows you to explore space ships and take down enemies within them. it 
+would bring many brand new elements within the assassins creed franchise including new mechanics and interesting
+new weapons and missions. 
