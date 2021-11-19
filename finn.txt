@@ -1,0 +1,25 @@
+[pl]Remeber to put your initials in square brackets at rthe start of each section
+
+Title
+ [Fr]Gavin and finn
+
+Elevator pitch 
+[fr]assassins creed in space
+...
+World Background
+[Fr]space themed assassins creed game
+...
+Pillars
+[fr]space, the future , traditional assassins creed
+...
+30 second gameplay description
+[fr]the game should feel like all traditional assassins creed games from the past. It should include a main protagonist 
+and a main antagonist. Action packed
+...
+Features points
+[fr] An action packed thriller in which it creates a modern version of the franchise "assassins creed"
+It holds a gripping storyline in how a young man must continue his legacy after the world ends and 
+humans are forced into space
+...
+Market analysis
+[fr]similiar games include call of duty advanced warfare
